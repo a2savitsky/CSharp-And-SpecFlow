@@ -1,0 +1,4 @@
+{
+  "url": "httpbin.org/basic-auth/user/passwd",
+  "protocol": "https"
+}
